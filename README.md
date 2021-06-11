@@ -1,4 +1,5 @@
 # skik - an s-box solving tool written in Rust
+![](https://github.com/WalrusGumboot/skik/blob/f5445b875c30dc45a60edf0faca433d2406fef71/Frame%201.png)  
 Picture this: you're doing a CTF and you come across a bit of ciphertext that, when decrypted, gives you the flag.
 You obviously want to be a *l33t h4x0r* and stay in the terminal for all your daily tasks, but there's probably
 already someone who made a JavaScript tool for that.  
